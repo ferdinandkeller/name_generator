@@ -2,6 +2,14 @@
 
 You can use this package to generate funny names in the same way the [Moby Project](https://github.com/moby/moby/blob/4f0d95fa6ee7f865597c03b9e63702cdcb0f7067/pkg/namesgenerator/names-generator.go) does.
 
+## Installation
+
+```bash
+pip install name_generator
+```
+
+## Usage
+
 Here is an example:
 
 ```python
