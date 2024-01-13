@@ -1,6 +1,6 @@
 # Name Generator for Python.
 
-You can use this package to generate funny names in the same say the [Moby Project](https://github.com/moby/moby/blob/4f0d95fa6ee7f865597c03b9e63702cdcb0f7067/pkg/namesgenerator/names-generator.go) does.
+You can use this package to generate funny names in the same way the [Moby Project](https://github.com/moby/moby/blob/4f0d95fa6ee7f865597c03b9e63702cdcb0f7067/pkg/namesgenerator/names-generator.go) does.
 
 Here is an example:
 
